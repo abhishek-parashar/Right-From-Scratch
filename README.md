@@ -7,4 +7,4 @@
 - I will be creating this repository as notes for my future endevours.
 
 #### Competitions I have participated in:- 
-- IEEE XTREME- Team- Hustle Puff, International Rank- 276, India Rank- 26
+- IEEE XTREME- Team- Hustle Puff, Global Rank- 276, India Rank- 26
