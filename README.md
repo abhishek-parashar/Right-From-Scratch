@@ -10,10 +10,12 @@
 - IEEE XTREME- Team- Hustle Puff, Global Rank- 276, India Rank- 26
 
 #### 3 X Kaggle Expert
-
-| Category                   | Rank              |
+ -   
+| Machine Learning Algorithm | Test Accuracy     |
 | -------------              |:-----------------:|
-| Dataset                    | 261               |
-| Notebooks                  | 933               |
-| Discussion                 | 547               |
+| Linear SVM                 | 0.7418032786885246|
+| Logistic Regression        | **0.75409836**    |
+| Random Forest              | 0.7336065573770492|
+| MLP                        | 0.5327868852459017|
+| XGBoost                    | 0.7008196721311475|
 
