@@ -9,7 +9,7 @@
 #### Competitions I have participated in:- 
 - IEEE XTREME- Team- Hustle Puff, Global Rank- 276, India Rank- 26
 
-#### 3 X Kaggle
+#### 3 X Kaggle Expert
 
 | Category                   | Rank              |
 | -------------              |:-----------------:|
