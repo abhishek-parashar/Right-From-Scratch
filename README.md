@@ -18,8 +18,8 @@
      | Discussion                 | 547               |
  
  ### Questions Done:
- ##### I did some competitve practice against all odds in Python - Here are some questions I practiced, question numbered at random.
-1. Searching:- Binary searching etc
+ #### I did some competitve practice against all odds in Python - Here are some questions I practiced, question numbered at random.
+##### 1. Searching:- Binary searching etc
 - Count the zeros - Amazon, Yahoo
 - Kth smallest element - Amazon, Cisco, Microsoft, Hike, Snapdeal etc.
 - Maximum Value in a bitonic Array - Amazon
