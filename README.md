@@ -43,5 +43,6 @@
 - Smallest Factorial no 
 - Missing elements in ap
 - Sonam bewafas asks questions.
+- minimum element in a rotated array
  
 
