@@ -14,22 +14,25 @@ def search(arr,start,end,key):
     mid=(start+end)//2
     if arr[mid]==key:
         return mid
-    # if array is rotated
-    if(arr[mid]>=arr[start]):
-        if(key>=arr[mid] and key<=arr[end]):
+    # if array start....mid is not rotated
+    if(arr[start]<arr[mid]):
+        if(key>=arr[start]and key<arr[mid]):
+            return search(arr,start,mid-1,key)
+        return search(arr,mid+1,end,key)
+    # if array mid ... end is not rotated
+    if(arr[mid]<=arr[end]):
+        if(key>=arr[mid]and arr[end]>=key):
             return search(arr,mid+1,end,key)
         return search(arr,start,mid-1,key)
-    # if array is not rotated
-    if key >= arr[start] and key <= arr[mid]: 
-        return search(arr, start, mid-1, key) 
-    return search(arr, mid + 1, end, key)
+    else:
+        return -1
 t= int(input())
 while(t>0):
     n=int(input())
     a=list(map(int,input().split()))
     k=int(input())
     start=0
-    end=n
+    end=n-1
     i=search(a,start,end,k)
     print(i)
     t=t-1
