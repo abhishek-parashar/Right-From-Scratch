@@ -45,5 +45,7 @@
 - Sonam bewafas asks questions.
 - minimum element in a rotated array
 - searching an element in a rotated sorted array 
+---
+##### 2. Recursion, Backtracking, Greedy, divide and conquer
 
 
