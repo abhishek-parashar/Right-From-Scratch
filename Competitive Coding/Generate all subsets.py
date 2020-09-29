@@ -7,9 +7,9 @@ Created on Tue Sep 29 15:51:01 2020
 
 def subsetutil(arr, subset, index):
     print(*subset)
-    for i in range(len(arr)):
+    for i in range(index,len(arr)):
         subset.append(arr[i])
-        subsetutil(arr,subset,index+1)
+        subsetutil(arr,subset,i+1)
         subset.pop(-1)
     return
 def subset(arr):
