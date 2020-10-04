@@ -48,4 +48,21 @@
 ---
 ##### 2. Recursion, Backtracking, Greedy, divide and conquer
 
+- Generate all subsets - All the major companies - backtracking
+- Combination - 1 - All the major companies - backtracking
+- Combinations - 2 - All the major companies - backtracking
+- Combinations sum - 1 - All the major companies - backtracking
+- Combinations sum - 2 - All the major companies - backtracking
+- Combinations sum - 3 - All the major companies - backtracking
+- Permutations - All the major companies - backtracking
+- unique subsets - All the major companies - backtracking
+- Josephus Problem - Recursion + Mathematical
+- print sequences with spaces - Recursion 
+---
+##### 3. Stacks, Array, Strings
+
+- Next greater element to left
+- Next Greater element to right
+- Next smaller element to right
+- next smaller element to left
 
