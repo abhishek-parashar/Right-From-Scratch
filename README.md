@@ -47,6 +47,7 @@
 - searching an element in a rotated sorted array 
 - Book ALlocation Problem
 - Dutch Flag Problem
+- find duplicate in an Array
 ---
 ##### 2. Recursion, Backtracking, Greedy, divide and conquer
 
