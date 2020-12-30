@@ -21,51 +21,60 @@
  
  ### Questions Done:
  #### I did some competitve practice against all odds in Python - Here are some questions I practiced, question numbered at random.
-##### 1. Searching:- Binary searching etc
-- Count the zeros - Amazon, Yahoo
-- Kth smallest element - Amazon, Cisco, Microsoft, Hike, Snapdeal etc.
-- Maximum Value in a bitonic Array - Amazon
-- Find Transition Point - Amazon
-- Good Pairs
-- Element Appearing Once - Amazon, Qualcomm
-- Index of an extra element - Amazon, Zoho
-- Maximum no of 1's in a row - Deshaw, Paytm
-- Peak Element - Adobe, Amazon, Google, Visa
-- Counting elements in two arrays - Amazon
-- Array subset of another array - Qualcomm
-- Smallest positive missing no - Amazon, Samsung, Snapdeal
-- Magnet Array problem- De Shaw
-- Smallest greatest element in whole array - Zoho
-- Leaders in an array- Amazon
-- Floor in a sorted array - Amazon, Microsoft
-- Happiest triplet 
-- Facing the sun - Amazon
-- Smallest Factorial no 
-- Missing elements in ap
-- Sonam bewafas asks questions.
-- minimum element in a rotated array
-- searching an element in a rotated sorted array 
-- Book ALlocation Problem
-- Dutch Flag Problem
-- find duplicate in an Array
+##### 1. Searching
+- [Floor in a sorted array.py](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/Floor%20in%20a%20sorted%20array.py)
+- [mountain element.py](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/mountain%20element.py)
+- [minimum element in rotated sorted array.py](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/minimum%20element%20in%20a%20rotated%20sorted%20array.py)
+- [maximum value in a bitonic array.py](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/maximum%20value%20in%20a%20bitonic%20array.py)
+- [minimum element in rotated array.py](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/minimum%20element%20in%20rotated%20array..py)
+- [searching in a rotated array.py](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/searching%20in%20a%20rotated%20array.py)
+- [searching in an infinite sorted array.py](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/searching-infinite-sorted-array.py)
+- [Book allocation problem.py](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/Book%20allocation%20Problem.py)
 ---
-##### 2. Recursion, Backtracking, Greedy, divide and conquer
+##### 2. Backtracking
 
-- Generate all subsets - All the major companies - backtracking
-- Combination - 1 - All the major companies - backtracking
-- Combinations - 2 - All the major companies - backtracking
-- Combinations sum - 1 - All the major companies - backtracking
-- Combinations sum - 2 - All the major companies - backtracking
-- Combinations sum - 3 - All the major companies - backtracking
-- Permutations - All the major companies - backtracking
-- unique subsets - All the major companies - backtracking
-- Josephus Problem - Recursion + Mathematical
-- print sequences with spaces - Recursion 
+- [Generate all subsets.py](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/Generate%20all%20subsets.py)
+- [Combination - 1](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/combination-1.py)
+- [Combinations sum - 1](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/combination%20sum%20I.py)
+- [Combinations sum - 2 ](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/combination-sum-II.py)
+- [Combinations sum - 3](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/combination-sum-3.py)
+- [Permutations](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/permutations%20of%20an%20array.py)
+- [unique subsets](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/unique-subsets-repeating-no.py)
 ---
-##### 3. Stacks, Array, Strings
+##### 3.Recursion
 
-- Next greater element to left
-- Next Greater element to right
-- Next smaller element to right
-- next smaller element to left
+- [Josephus Problem](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/josephus%20Problem.py)
+- [print sequences with spaces](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/print%20sequences%20with%20spaces.py)
+---
+##### 4. Stacks
+
+- [Next greater element to right](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/next-greater-element.py)
+- [Next Greater element to left](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/next-greater-left.py)
+- [Next smaller element to right](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/next-smaller-to-right.py)
+- [next smaller element to left](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/next-smaller-to-left.py)
+- [stock span problem](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/stock%20span%20problem.py)
+- [trapping rain water](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/trapping%20rain%20water.py)
+---
+##### 5. 2pointer, hashing, divide and conquer, misc.
+- [2sum](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/2%20sum.py)
+- [Count Inversions](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/count%20inversions.py)
+- [cyclically rotate an array](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/cyclically-rotate-array.py)
+- [dutch flag problem](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/dutch%20flag%20problem.py)
+- [find duplicate in an array](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/find%20duplicate%20in%20an%20array.py)
+- [kth element](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/k%20th%20element.py)
+- [kadanes algo](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/kadanes-algo.py)
+- [majority element-1](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/majority%20elemenrt%20-1.py)
+- [majority element-2](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/majority%20elements%202.py)
+- [maximum no of 1 in a row](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/maximum%20no%20of%201's%20in%20a%20row.py)
+- [median of two sorted array](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/median%20of%20two%20sorted%20array.py)
+- [merge sorted array](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/merge%20sorted%20array.py)
+- [missing element in ap](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/missing%20element%20in%20ap.py)
+- [negative at beginning](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/negative-at-beginning.py)
+- [pascals triangle](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/pascals%20triangle.py)
+- [pow(x,n)](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/pow(x%2Cn).py)
+- [stock buy sell maximise profit](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/stock%20buy%20sell%20maximise%20profit.py)
+- [union and intersection of an array](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/union%20and%20intersection%20of%20an%20array.py)
+---
+---
+
 
