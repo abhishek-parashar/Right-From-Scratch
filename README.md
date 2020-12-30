@@ -21,7 +21,7 @@
  
  ### Questions Done:
  #### I did some competitve practice against all odds in Python - Here are some questions I practiced, question numbered at random.
-##### 1. Searching:- Binary searching etc
+##### 1. Searching
 - [Floor in a sorted array.py](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/Floor%20in%20a%20sorted%20array.py)
 - [mountain element.py](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/mountain%20element.py)
 - [minimum element in rotated sorted array.py](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/minimum%20element%20in%20a%20rotated%20sorted%20array.py)
@@ -54,5 +54,27 @@
 - [next smaller element to left](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/next-smaller-to-left.py)
 - [stock span problem](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/stock%20span%20problem.py)
 - [trapping rain water](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/trapping%20rain%20water.py)
+---
+##### 5. 2pointer, hashing, divide and conquer, misc.
+- [2sum](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/2%20sum.py)
+- [Count Inversions](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/count%20inversions.py)
+- [cyclically rotate an array](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/cyclically-rotate-array.py)
+- [dutch flag problem](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/dutch%20flag%20problem.py)
+- [find duplicate in an array](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/find%20duplicate%20in%20an%20array.py)
+- [kth element](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/k%20th%20element.py)
+- [kadanes algo](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/kadanes-algo.py)
+- [majority element-1](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/majority%20elemenrt%20-1.py)
+- [majority element-2](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/majority%20elements%202.py)
+- [maximum no of 1 in a row](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/maximum%20no%20of%201's%20in%20a%20row.py)
+- [median of two sorted array](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/median%20of%20two%20sorted%20array.py)
+- [merge sorted array](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/merge%20sorted%20array.py)
+- [missing element in ap](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/missing%20element%20in%20ap.py)
+- [negative at beginning](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/negative-at-beginning.py)
+- [pascals triangle](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/pascals%20triangle.py)
+- [pow(x,n)](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/pow(x%2Cn).py)
+- [stock buy sell maximise profit](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/stock%20buy%20sell%20maximise%20profit.py)
+- [union and intersection of an array](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/union%20and%20intersection%20of%20an%20array.py)
+---
+---
 
 
