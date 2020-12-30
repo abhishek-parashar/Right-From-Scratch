@@ -29,17 +29,17 @@
 - [minimum element in rotated array.py](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/minimum%20element%20in%20rotated%20array..py)
 - [searching in a rotated array.py](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/searching%20in%20a%20rotated%20array.py)
 - [searching in an infinite sorted array.py](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/searching-infinite-sorted-array.py)
+- [Book allocation problem.py](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/Book%20allocation%20Problem.py)
 ---
 ##### 2. Recursion, Backtracking, Greedy, divide and conquer
 
-- Generate all subsets -  - backtracking
-- Combination - 1 -  - backtracking
-- Combinations - 2 - - backtracking
-- Combinations sum - 1 -  - backtracking
-- Combinations sum - 2 -  - backtracking
-- Combinations sum - 3 -  - backtracking
-- Permutations -  - backtracking
-- unique subsets -  - backtracking
+- [Generate all subsets.py](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/Generate%20all%20subsets.py) - backtracking
+- [Combination - 1](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/combination-1.py) - backtracking
+- [Combinations sum - 1](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/combination%20sum%20I.py) -  - backtracking
+- [Combinations sum - 2 ](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/combination-sum-II.py)  - backtracking
+- [Combinations sum - 3](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/combination-sum-3.py) -  - backtracking
+- [Permutations](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/permutations%20of%20an%20array.py) -  - backtracking
+- [unique subsets](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/unique-subsets-repeating-no.py) -  - backtracking
 - Josephus Problem - Recursion + Mathematical
 - print sequences with spaces - Recursion 
 ---
