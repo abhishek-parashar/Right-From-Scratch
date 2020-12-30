@@ -22,43 +22,24 @@
  ### Questions Done:
  #### I did some competitve practice against all odds in Python - Here are some questions I practiced, question numbered at random.
 ##### 1. Searching:- Binary searching etc
-- Count the zeros - Amazon, Yahoo
-- Kth smallest element - Amazon, Cisco, Microsoft, Hike, Snapdeal etc.
-- Maximum Value in a bitonic Array - Amazon
-- Find Transition Point - Amazon
-- Good Pairs
-- Element Appearing Once - Amazon, Qualcomm
-- Index of an extra element - Amazon, Zoho
-- Maximum no of 1's in a row - Deshaw, Paytm
-- Peak Element - Adobe, Amazon, Google, Visa
-- Counting elements in two arrays - Amazon
-- Array subset of another array - Qualcomm
-- Smallest positive missing no - Amazon, Samsung, Snapdeal
-- Magnet Array problem- De Shaw
-- Smallest greatest element in whole array - Zoho
-- Leaders in an array- Amazon
-- Floor in a sorted array - Amazon, Microsoft
-- Happiest triplet 
-- Facing the sun - Amazon
-- Smallest Factorial no 
-- Missing elements in ap
-- Sonam bewafas asks questions.
-- minimum element in a rotated array
-- searching an element in a rotated sorted array 
-- Book ALlocation Problem
-- Dutch Flag Problem
-- find duplicate in an Array
+- [Floor in a sorted array.py](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/Floor%20in%20a%20sorted%20array.py)
+- [mountain element.py](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/mountain%20element.py)
+- [minimum element in rotated sorted array.py](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/minimum%20element%20in%20a%20rotated%20sorted%20array.py)
+- [maximum value in a bitonic array.py](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/maximum%20value%20in%20a%20bitonic%20array.py)
+- [minimum element in rotated array.py](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/minimum%20element%20in%20rotated%20array..py)
+- [searching in a rotated array.py](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/searching%20in%20a%20rotated%20array.py)
+- [searching in an infinite sorted array.py](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/searching-infinite-sorted-array.py)
 ---
 ##### 2. Recursion, Backtracking, Greedy, divide and conquer
 
-- Generate all subsets - All the major companies - backtracking
-- Combination - 1 - All the major companies - backtracking
-- Combinations - 2 - All the major companies - backtracking
-- Combinations sum - 1 - All the major companies - backtracking
-- Combinations sum - 2 - All the major companies - backtracking
-- Combinations sum - 3 - All the major companies - backtracking
-- Permutations - All the major companies - backtracking
-- unique subsets - All the major companies - backtracking
+- Generate all subsets -  - backtracking
+- Combination - 1 -  - backtracking
+- Combinations - 2 - - backtracking
+- Combinations sum - 1 -  - backtracking
+- Combinations sum - 2 -  - backtracking
+- Combinations sum - 3 -  - backtracking
+- Permutations -  - backtracking
+- unique subsets -  - backtracking
 - Josephus Problem - Recursion + Mathematical
 - print sequences with spaces - Recursion 
 ---
