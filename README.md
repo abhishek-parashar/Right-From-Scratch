@@ -75,6 +75,9 @@
 - [stock buy sell maximise profit](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/stock%20buy%20sell%20maximise%20profit.py)
 - [union and intersection of an array](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/union%20and%20intersection%20of%20an%20array.py)
 ---
+##### 6. Dynamic Programming
+
+- [0,1 knapsack](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/0-1knapsack.py)
 ---
 
 
