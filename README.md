@@ -78,6 +78,7 @@
 ##### 6. Dynamic Programming
 
 - [0,1 knapsack](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/0-1knapsack.py)
+- [subset sum problem](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/subset%20sum%20problem.py)
 ---
 
 
