@@ -83,6 +83,6 @@
 - [count of subset sum](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/count%20of%20subset%20sum.py)
 - [minimize difference between two subset](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/minimize%20difference%20between%20two%20subset.py)
 - [target sum](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/target%20sum.py)
-
+- [rod cutting problem](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/rod%20cutting%20problem.py)
 ---
 
