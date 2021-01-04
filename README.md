@@ -84,5 +84,6 @@
 - [minimize difference between two subset](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/minimize%20difference%20between%20two%20subset.py)
 - [target sum](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/target%20sum.py)
 - [rod cutting problem](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/rod%20cutting%20problem.py)
+- [coin change problem](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/coin%20change%20problem.py)
 ---
 
