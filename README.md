@@ -85,5 +85,6 @@
 - [target sum](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/target%20sum.py)
 - [rod cutting problem](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/rod%20cutting%20problem.py)
 - [coin change problem](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/coin%20change%20problem.py)
+- [minimum coin change](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/minimum%20coin%20change.py)
 ---
 
