@@ -87,5 +87,6 @@
 - [coin change problem](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/coin%20change%20problem.py)
 - [minimum coin change](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/minimum%20coin%20change.py)
 - [longest common subsequnce](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/longest%20common%20subsequence.py)
+- [longest common substring](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/longest%20common%20substring.py)
 ---
 
