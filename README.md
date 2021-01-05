@@ -89,5 +89,6 @@
 - [longest common subsequnce](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/longest%20common%20subsequence.py)
 - [longest common substring](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/longest%20common%20substring.py)
 - [printing shortest common substring](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/length%20of%20shortest%20common%20substring.py)
+- [min insertions deletions to make string LCS](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/min%20deletions%20lcs.py)
 ---
 
