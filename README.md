@@ -91,5 +91,6 @@
 - [printing shortest common substring](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/length%20of%20shortest%20common%20substring.py)
 - [min insertions deletions to make string LCS](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/min%20deletions%20lcs.py)
 - [Scrambled string](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/scrambled%20string.py)
+- [egg drop problem](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/egg%20drop%20problem.py)
 ---
 
