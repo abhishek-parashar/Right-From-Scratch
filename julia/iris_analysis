@@ -1,0 +1,10 @@
+using Pkg
+Pkg.add("CSV")
+using DataFrames
+using CSV
+using PyCall
+Pkg.add("ScikitLearn")
+using ScikitLearn
+Pkg.add("Plots")
+using Plots
+data=CSV.read("D://dataset//Iris.csv",DataFrame)
