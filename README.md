@@ -18,7 +18,9 @@
      | Discussion                 | 547               | 46               |
      
  ---
- 
+ ### Julia
+ #### Beginning my journey with julia from here, will code everything related to julia from scratch. Ya, I am contributing to Julia :)
+ - [Logistic Regression](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/julia/iris_analysis.jl) with iris dataset - First step towards machine learning in Julia, 
  ### Questions Done:
  #### I did some competitve practice against all odds in Python - Here are some questions I practiced, question numbered at random.
 ##### 1. Searching
