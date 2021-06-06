@@ -12,7 +12,7 @@
 
 ### 3 X Kaggle Expert
 
- -   | Category                   |International Rank | National Rank    |
+     | Category                   |International Rank | National Rank    |
      | -------------              |:-----------------:|:----------------:|
      | Dataset                    | 236               | 13               |
      | Notebook                   | 933               | 74               |
