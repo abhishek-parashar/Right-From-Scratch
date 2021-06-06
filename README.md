@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Right-From-Scratch 
 
 ### GFG, LEETCODE, INTERVIEWBIT, HACKERANK, HACKEREARTH, KAGGLE, CODECHEF, CODEFORCES, KICKSTART.
@@ -98,4 +98,3 @@
 - [egg drop problem](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/egg%20drop%20problem.py)
 ---
 
->>>>>>> 1e18fb39c17aeccb4097d23a1269646a03deec49
