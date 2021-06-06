@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+
 # Right-From-Scratch 
 
-### GFG, LEETCODE, INTERVIEWBIT, HACKERANK, HACKEREARTH, KAGGLE
+### GFG, LEETCODE, INTERVIEWBIT, HACKERANK, HACKEREARTH, KAGGLE, CODECHEF, CODEFORCES, KICKSTART.
 
 - This repository is implementation of data structures, different digital signal processing algorithms and methods, competitive coding questions, equations, algorithms, mathematics formulas and methods, neural network, different machine learning algorithms etc all from scratch in hard coded python, Julia.
 - The repository also contains code for different machine learning, data science, deep learning hackathons, online competitions I have participated.   
@@ -12,7 +12,7 @@
 
 ### 3 X Kaggle Expert
 
- -   | Category                   |International Rank | National Rank    |
+     | Category                   |International Rank | National Rank    |
      | -------------              |:-----------------:|:----------------:|
      | Dataset                    | 236               | 13               |
      | Notebook                   | 933               | 74               |
@@ -98,4 +98,3 @@
 - [egg drop problem](https://github.com/abhishek-parashar/Right-From-Scratch/blob/master/DSA/egg%20drop%20problem.py)
 ---
 
->>>>>>> 1e18fb39c17aeccb4097d23a1269646a03deec49
